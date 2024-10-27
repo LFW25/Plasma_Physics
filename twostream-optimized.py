@@ -1,3 +1,7 @@
+# Author: Lily Williams
+# October 2024
+# Heavily modified from code written by EdX User soundsoffailure
+
 import tkinter as tk
 from tkinter import ttk, messagebox, colorchooser
 import numpy as np
